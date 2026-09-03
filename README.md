@@ -8,7 +8,7 @@ Desenvolvo soluções de ponta a ponta: planejamento, interface, programação, 
 
 </div>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 🎧 [DJ Papaléguas](https://www.djpapaleguas.com.br/)
 
@@ -23,7 +23,7 @@ Site profissional desenvolvido integralmente por mim para apresentar serviços d
 
 ---
 
-### 📻 [Rádio Virtual FM](https://www.radiovirtualfm.com.br/)
+### [Rádio Virtual FM](https://www.radiovirtualfm.com.br/)
 
 Site de rádio online desenvolvido integralmente por mim, com transmissão ao vivo e integração com serviços externos.
 
@@ -40,7 +40,7 @@ Site de rádio online desenvolvido integralmente por mim, com transmissão ao vi
 
 ---
 
-### ☀️ [E-commerce Servitec Energia Solar](https://github.com/ermelindonunes/site-ecomerc)
+### [E-commerce Servitec Energia Solar](https://github.com/ermelindonunes/site-ecomerc)
 
 Sistema web para divulgação e comercialização de produtos e serviços de energia solar.
 
