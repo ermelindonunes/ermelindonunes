@@ -10,7 +10,7 @@ Desenvolvo soluções de ponta a ponta: planejamento, interface, programação, 
 
 ## Projetos em destaque
 
-### 🎧 [DJ Papaléguas](https://www.djpapaleguas.com.br/)
+### [DJ Papaléguas](https://www.djpapaleguas.com.br/)
 
 Site profissional desenvolvido integralmente por mim para apresentar serviços de DJ, sonorização, iluminação e estruturas para eventos.
 
@@ -60,13 +60,13 @@ Sistema web para divulgação e comercialização de produtos e serviços de ene
 
 ---
 
-### 📱 [Aplicativo Rádio Virtual FM](https://github.com/ermelindonunes/radio-virtual-fm-app)
+### [Aplicativo Rádio Virtual FM](https://github.com/ermelindonunes/radio-virtual-fm-app)
 
 Aplicativo desenvolvido para facilitar o acesso à programação e à transmissão da Rádio Virtual FM em dispositivos móveis.
 
 [![Ver aplicativo](https://img.shields.io/badge/Ver_projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ermelindonunes/radio-virtual-fm-app)
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
 
@@ -83,13 +83,13 @@ Aplicativo desenvolvido para facilitar o acesso à programação e à transmiss�
 
 </div>
 
-## 🎓 Formação
+## Formação
 
 **Sistemas de Informação**
 
 Durante a graduação, venho desenvolvendo projetos web e mobile, trabalhando com levantamento de requisitos, banco de dados, testes, versionamento, branches, pull requests e colaboração em equipe.
 
-## 💡 Sobre mim
+## Sobre mim
 
 Além da tecnologia, atuo profissionalmente como **DJ Papaléguas**, com ampla experiência em eventos, áudio e iluminação. Essa trajetória fortaleceu competências como responsabilidade, comunicação, atendimento ao cliente, solução de problemas e trabalho sob pressão.
 
